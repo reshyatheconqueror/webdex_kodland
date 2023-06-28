@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>cara memanfaatkan teknologi dengan benar</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>apa itu kecanduan teknologi</h1>
+    <p>teknologi telah menjadi salah satu unsur yang sangat penting dalam kehidupan kita.
+        hal ini pun mengharuskan kita sebagai pengguna untuk mengontrol penggunaan teknologi</p>
+    <img src="https://media3.giphy.com/media/26BGGxgsEh42ABHFe/giphy.gif?cid=ecf05e47fewnmm2h6vijgpd1768vz8zxo441mpec89684gtw&rid=giphy.gif&ct=g" alt="Gambar 1">
+    <h2>apa dampaknya untuk manusia</h2>
+             <ul>
+                   <li>mengurangi kemampuan manusia dalam berpikir terutama dalam hal mengambil keputusan</li>
+                   <li>mengurangi kemampuan fisik manusia </li>
+                   <li>membuat manusia terlalu bergantung kepada mesin </li>
+             </ul>
+    <h2>bagaimana mengatasinya</h2>
+             <ul>
+                   <li>mengembangkan minat dan hobi di bidang yang tidak berhubungan dengan teknologi</li>
+                   <li>membuat jadwal dalam penggunaan teknologi </li>
+                   <li>mencoba untuk sosialisasi dengan teman disekitar </li>
+             </ul>      
+</body>
+</html>
